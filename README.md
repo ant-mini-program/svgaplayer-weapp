@@ -1,6 +1,6 @@
 # svgaplayer-weapp
 
-专为微信小程序开发的 SVGA 播放器，已在 iOS 及 Android 手机上测试通过。
+专为微信、支付宝小程序开发的 SVGA 播放器，已在 iOS 及 Android 手机上测试通过。
 
 示例代码片段 https://developers.weixin.qq.com/s/u2JBSOmy7rqU
 
